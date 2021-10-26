@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF: 1, TELECADENA
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF: 1, FENIX CHANEL
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF: 1, GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF: 1, BeinSport Xtra 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#EXTINF: 1, TNT SPORT STADIO
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/2236
+#EXTINF: 1, TNT SPORTS BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF: 1, Futbol Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF: 1, Futbol 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF: 1, Deporte Interactivo
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF: 1, Ciudad Magica
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF: 1, TYC SPORTS 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF: 1, TYC SPORTS 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF: 1, TYC SPORTS 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF: 1, TYC SPORTS 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF: 1, TYC SPORTS 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF: 1, TYC SPORTS 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF: 1, TYC SPORTS 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF: 1, TYC SPORTS 9
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF: 1, TYC SPORTS 10
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF: 1, FreeSports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF: 1, Football 1 Rusia
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF: 1, Sport 1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF: 1, Arena Sport 3
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273415
+#EXTINF: 1, Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF: 1, Super Sports
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/228
+#EXTINF: 1, Super Sports2
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/231
+#EXTINF: 1, Super Sports3
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/232
+#EXTINF: 1, Super Sports4
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/82
+#EXTINF: 1, BeinSport1 Arab
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/444
+#EXTINF: 1, BeinSport3 Arab
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/306
+#EXTINF: 1, BeinSport3 Arab
+http://dp.iptvport.com:7000/vhkkoiqu623464/vhkkoiqu/451
